@@ -4,10 +4,11 @@
 # Senior Software Engineer | Full-Stack Developer | Technology Enthusiast
 
 
-a passionate and seasoned Senior Software Engineer with over 7 years of hands-on experience in the field. I have a relentless curiosity for technology and a proven track record of delivering high-quality software solutions. My expertise lies in PHP, JavaScript, Python, Laravel, and Node.js.
+I'm a passionate and seasoned Senior Software Engineer with over 7 years of hands-on experience in the field. My relentless curiosity for technology is coupled with a proven track record of consistently delivering high-quality software solutions. I specialize in PHP, JavaScript, Python, Laravel, and Node.js, bringing a diverse skill set to every project.
 
 *   🌍  I'm based in Cairo, Egypt
-*   🧠  I'm learning Node JS and Express JS<a href="https://www.github.com/0xelsherif" target="_blank" rel="noreferrer">
+*   ⚡  Developing a full-stack Laravel application with more than 7 years
+*   🧠  I'm learning Node JS and Express JS
 ### 🚀 What I Do:
 
 - **Full-Stack Mastery:** I bring a comprehensive skill set that spans both front-end and back-end development. From crafting seamless user interfaces to architecting scalable and robust server-side systems, I thrive in creating end-to-end solutions that meet the highest standards of performance and user experience.

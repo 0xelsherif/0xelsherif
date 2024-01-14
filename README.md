@@ -20,37 +20,48 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 - **Agile Advocate:** I am an advocate for Agile methodologies and have a proven track record of leading development teams to success through iterative and collaborative processes. My experience in agile environments has honed my ability to adapt quickly to changing requirements while maintaining a focus on delivering high-quality software.
 
 ### ⚡ Technical Skills:
-<p align="left">
-<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="36" height="36"></a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36"></a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36"></a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" alt="Express" width="36" height="36"></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36"></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" width="36" height="36"></a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" alt="Django" width="36" height="36"></a>
-<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" alt="Flask" width="36" height="36"></a> 
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36"></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36"></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36"></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36"></a>
-<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" alt="Sass" width="36" height="36"></a>
-<a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg" alt="Angular" width="36" height="36"></a>
-<a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" width="36" height="36"></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36"></a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" alt="Vite" width="36" height="36"></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" alt="JQuery" width="36" height="36"></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36"></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36"></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36"></a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" alt="Firebase" width="36" height="36"></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36"></a> 
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36"></a>
-<a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" width="36" height="36"></a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" alt="Amazon Web Services" width="36" height="36"></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" width="36" height="36"></a>
-<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" width="36" height="36"></a>
-<a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" alt="Illustrator" width="36" height="36"></a>
+<p align="center">
+  <a><img src="https://skillicons.dev/icons?i=php" />
+    <a><img src="https://skillicons.dev/icons?i=laravel" />
+    <a><img src="https://skillicons.dev/icons?i=vue" /></a>
+    <a><img src="https://skillicons.dev/icons?i=mysql" /></a>
+    <a><img src="https://skillicons.dev/icons?i=nodejs" /></a>
+    <a><img src="https://skillicons.dev/icons?i=express" /></a>
+    <a><img src="https://skillicons.dev/icons?i=react" /></a>
+    <a><img src="https://skillicons.dev/icons?i=ts" /></a>
+    <a><img src="https://skillicons.dev/icons?i=prisma" /></a>
+    <a><img src="https://skillicons.dev/icons?i=py" /></a>
+    <a><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+    <a><img src="https://skillicons.dev/icons?i=qt" /></a>
+    <a><img src="https://skillicons.dev/icons?i=django" /></a>
+    <a><img src="https://skillicons.dev/icons?i=flask" /></a>
+    <a><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+    <a><img src="https://skillicons.dev/icons?i=html" /></a>
+    <a><img src="https://skillicons.dev/icons?i=css" /></a>
+    <a><img src="https://skillicons.dev/icons?i=js" /></a>
+    <a><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+    <a><img src="https://skillicons.dev/icons?i=tailwind" /></a>
+    <a><img src="https://skillicons.dev/icons?i=sass" /></a>
+    <a><img src="https://skillicons.dev/icons?i=angular" /></a>
+    <a><img src="https://skillicons.dev/icons?i=vite" /></a>
+    <a><img src="https://skillicons.dev/icons?i=jquery" /></a>
+    <a><img src="https://skillicons.dev/icons?i=sqlite" /></a>
+    <a><img src="https://skillicons.dev/icons?i=firebase" /></a>
+    <a><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
+    <a><img src="https://skillicons.dev/icons?i=postgres" /></a>
+    <a><img src="https://skillicons.dev/icons?i=postman" /></a>
+    <a><img src="https://skillicons.dev/icons?i=git" /></a>
+    <a><img src="https://skillicons.dev/icons?i=github" /></a>
+    <a><img src="https://skillicons.dev/icons?i=linux" /></a>
+    <a><img src="https://skillicons.dev/icons?i=bash" /></a>
+    <a><img src="https://skillicons.dev/icons?i=cloudflare" /></a>
+    <a><img src="https://skillicons.dev/icons?i=nginx" /></a>
+    <a><img src="https://skillicons.dev/icons?i=aws" /></a>
+    <a><img src="https://skillicons.dev/icons?i=powershell" /></a>
+    <a><img src="https://skillicons.dev/icons?i=docker" /></a>
+    <a><img src="https://skillicons.dev/icons?i=figma" /></a>
+    <a><img src="https://skillicons.dev/icons?i=ps" /></a>
+    <a><img src="https://skillicons.dev/icons?i=ai" /></a>
 </p>
 
 ### 💼 What Sets Me Apart:
@@ -70,5 +81,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/elsherifx09/) or drop 
 Happy coding! 🚀✨
 
 
-
-                  

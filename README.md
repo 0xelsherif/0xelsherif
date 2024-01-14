@@ -6,9 +6,9 @@
 
 I'm a passionate and seasoned Senior Software Engineer with over 7 years of hands-on experience in the field. My relentless curiosity for technology is coupled with a proven track record of consistently delivering high-quality software solutions. I specialize in PHP, JavaScript, Python, Laravel, and Node.js, bringing a diverse skill set to every project.
 
-*   🌍  I'm based in Cairo, Egypt
-*   ⚡  Developing a full-stack Laravel application with more than 7 years
-*   🧠  I'm learning Node JS and Express JS
+*   🌍  I'm based in Cairo, Egypt.
+*   ⚡  Developing a full-stack Laravel application with more than 7 years.
+*   🧠  I'm learning Node JS and Express JS.
 ### 🚀 What I Do:
 
 - **Full-Stack Mastery:** I bring a comprehensive skill set that spans both front-end and back-end development. From crafting seamless user interfaces to architecting scalable and robust server-side systems, I thrive in creating end-to-end solutions that meet the highest standards of performance and user experience.
@@ -19,14 +19,7 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 
 - **Agile Advocate:** I am an advocate for Agile methodologies and have a proven track record of leading development teams to success through iterative and collaborative processes. My experience in agile environments has honed my ability to adapt quickly to changing requirements while maintaining a focus on delivering high-quality software.
 
-### 💼 What Sets Me Apart:
-
-- **Leadership Excellence:** Having served in leadership roles, I understand the importance of fostering a collaborative and empowering work culture. I believe in mentoring junior developers, promoting knowledge-sharing, and cultivating an environment that encourages innovation.
-
-- **Effective Communication:** Clear and concise communication is a cornerstone of successful software development. I excel in articulating technical concepts to both technical and non-technical stakeholders, ensuring alignment across all levels of an organization.
-
-- **Continuous Learner:** The tech landscape is dynamic, and I am committed to staying ahead of the curve. I invest time in continuous learning, attending conferences, participating in webinars, and staying engaged with the developer community to stay abreast of emerging trends and technologies.
-### Skills
+### ⚡ Technical Skills:
 <p align="left">
 <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" alt="Laravel" width="36" height="36"></a>
 <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36"></a>
@@ -59,6 +52,14 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" alt="Photoshop" width="36" height="36"></a>
 <a href="https://www.adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" alt="Illustrator" width="36" height="36"></a>
 </p>
+
+### 💼 What Sets Me Apart:
+
+- **Leadership Excellence:** Having served in leadership roles, I understand the importance of fostering a collaborative and empowering work culture. I believe in mentoring junior developers, promoting knowledge-sharing, and cultivating an environment that encourages innovation.
+
+- **Effective Communication:** Clear and concise communication is a cornerstone of successful software development. I excel in articulating technical concepts to both technical and non-technical stakeholders, ensuring alignment across all levels of an organization.
+
+- **Continuous Learner:** The tech landscape is dynamic, and I am committed to staying ahead of the curve. I invest time in continuous learning, attending conferences, participating in webinars, and staying engaged with the developer community to stay abreast of emerging trends and technologies.
 
 ### 🌐 Let's Connect:
 

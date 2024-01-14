@@ -32,6 +32,7 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
     <a><img src="https://skillicons.dev/icons?i=prisma" /></a>
     <a><img src="https://skillicons.dev/icons?i=py" /></a>
     <a><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+    <a><img src="https://skillicons.dev/icons?i=opencv" /></a>
     <a><img src="https://skillicons.dev/icons?i=qt" /></a>
     <a><img src="https://skillicons.dev/icons?i=django" /></a>
     <a><img src="https://skillicons.dev/icons?i=flask" /></a>
@@ -49,6 +50,7 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
     <a><img src="https://skillicons.dev/icons?i=firebase" /></a>
     <a><img src="https://skillicons.dev/icons?i=tensorflow" /></a>
     <a><img src="https://skillicons.dev/icons?i=postgres" /></a>
+    <a><img src="https://skillicons.dev/icons?i=redis" /></a>
     <a><img src="https://skillicons.dev/icons?i=postman" /></a>
     <a><img src="https://skillicons.dev/icons?i=git" /></a>
     <a><img src="https://skillicons.dev/icons?i=github" /></a>
@@ -59,9 +61,10 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
     <a><img src="https://skillicons.dev/icons?i=aws" /></a>
     <a><img src="https://skillicons.dev/icons?i=powershell" /></a>
     <a><img src="https://skillicons.dev/icons?i=docker" /></a>
+    <a><img src="https://skillicons.dev/icons?i=ai" /></a>
     <a><img src="https://skillicons.dev/icons?i=figma" /></a>
     <a><img src="https://skillicons.dev/icons?i=ps" /></a>
-    <a><img src="https://skillicons.dev/icons?i=ai" /></a>
+    <a><img src="https://skillicons.dev/icons?i=vscode" /></a>
 </p>
 
 ### 💼 What Sets Me Apart:

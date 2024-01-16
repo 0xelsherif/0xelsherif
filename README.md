@@ -1,15 +1,18 @@
-![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Hello there! I'm Ahmed El-Sherif
-=======================================================================================================================================
-
-# Senior Software Engineer | Full-Stack Developer | Technology Enthusiast
-
+<div align="center">
+  <h1> Hello, World! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="Image"> I'm Ahmed El-Sherif</h1>
+  <h2 align="center">Senior Software Engineer | Full-Stack Developer | Technology Enthusiast</h2>
+</div>
 
 I'm a passionate and seasoned Senior Software Engineer with over 7 years of hands-on experience in the field. My relentless curiosity for technology is coupled with a proven track record of consistently delivering high-quality software solutions. I specialize in PHP, JavaScript, Python, Laravel, and Node.js, bringing a diverse skill set to every project.
 
 *   🌍  I'm based in Cairo, Egypt.
+*   ⚙️  I use daily: `.php`, `.js`, `.json`, `.html`, `.css`, `.blade.php`, `.sql`.
 *   ⚡  Developing a full-stack Laravel application with more than 7 years.
 *   🧠  I'm learning Node JS and Express JS.
+*   🌱  Learning all about **Open Source**.
+
 ### 🚀 What I Do:
+<img align="right" alt="Coding" width="400" src="https://imarticus.org/blog/wp-content/uploads/2021/12/djbwgfw.gif">
 
 - **Full-Stack Mastery:** I bring a comprehensive skill set that spans both front-end and back-end development. From crafting seamless user interfaces to architecting scalable and robust server-side systems, I thrive in creating end-to-end solutions that meet the highest standards of performance and user experience.
 
@@ -74,6 +77,15 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 - **Effective Communication:** Clear and concise communication is a cornerstone of successful software development. I excel in articulating technical concepts to both technical and non-technical stakeholders, ensuring alignment across all levels of an organization.
 
 - **Continuous Learner:** The tech landscape is dynamic, and I am committed to staying ahead of the curve. I invest time in continuous learning, attending conferences, participating in webinars, and staying engaged with the developer community to stay abreast of emerging trends and technologies.
+
+### 📉 Statistics:
+
+<!--Statistics: start-->
+<div align="center">
+<img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=0xelsherif&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=f56a00&icon_color=f56a00">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xelsherif&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=f56a00">
+</div>
+<!--Statistics: end-->
 
 ### 🌐 Let's Connect:
 

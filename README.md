@@ -82,8 +82,8 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 
 <!--Statistics: start-->
 <div align="center">
-<img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=0xelsherif&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=0077cc&title_color=0077cc&icon_color=0077cc">
-  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xelsherif&layout=compact&hide_border=true&bg_color=00000000&text_color=0077cc&custom_title=Top+Languages&title_color=0077cc">
+<img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=0xelsherif&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=f56a00&title_color=f56a00&icon_color=f56a00">
+  <img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xelsherif&layout=compact&hide_border=true&bg_color=00000000&text_color=f56a00&custom_title=Top+Languages&title_color=f56a00">
 </div>
 <!--Statistics: end-->
 

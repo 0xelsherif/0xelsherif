@@ -5,10 +5,10 @@
 
 I'm a passionate and seasoned Senior Software Engineer with over 7 years of hands-on experience in the field. My relentless curiosity for technology is coupled with a proven track record of consistently delivering high-quality software solutions. I specialize in PHP, JavaScript, Python, Laravel, and Node.js, bringing a diverse skill set to every project.
 
-*   🌍  I'm based in Cairo, Egypt.
+*   🌍  I'm based in Giza, Egypt.
 *   ⚙️  I use daily: `.php`, `.js`, `.json`, `.html`, `.css`, `.blade.php`, `.sql`.
 *   ⚡  Developing a full-stack Laravel application with more than 7 years.
-*   🧠  I'm learning Node JS and Express JS.
+*   🧠  I'm learning Node JS, Express JS and Nuxt.
 *   🌱  Learning all about **Open Source**.
 
 ### 🚀 What I Do:

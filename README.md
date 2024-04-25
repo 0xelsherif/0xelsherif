@@ -96,6 +96,7 @@ I'm always open to exciting opportunities, collaborations, and conversations abo
 [![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
 [![Follow @0xelsherif on Medium](https://img.shields.io/badge/Medium--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
 [![Follow @0xelsherif on Codepen](https://img.shields.io/badge/Codepen--black?style=social&logo=codepen)](https://codepen.io/0xelsherif)
+[![Follow @0xelsherif on Hackerrank](https://img.shields.io/badge/HackerRank--black?style=social&logo=hackerrank)](https://www.hackerrank.com/profile/0xelsherif)
 
 Connect with me  or drop me an [email](mailto:dev.ahmedelsherif@gmail.com).
 

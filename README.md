@@ -91,7 +91,13 @@ I'm a passionate and seasoned Senior Software Engineer with over 7 years of hand
 
 I'm always open to exciting opportunities, collaborations, and conversations about technology. Feel free to reach out if you're interested in discussing software architecture, innovative projects, or if you just want to connect with a fellow tech enthusiast. Let's build something amazing together!
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/elsherifx09/) or drop me an [email](mailto:dev.ahmedelsherif@gmail.com).
+
+<a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/Linkedin--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Follow @0xelsherif on Medium](https://img.shields.io/badge/Medium--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
+[![Follow @0xelsherif on Codepen](https://img.shields.io/badge/Codepen--black?style=social&logo=codepen)](https://codepen.io/0xelsherif)
+
+Connect with me  or drop me an [email](mailto:dev.ahmedelsherif@gmail.com).
 
 Happy coding! 🚀✨
 

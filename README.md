@@ -93,7 +93,7 @@ I'm always open to exciting opportunities, collaborations, and conversations abo
 
 
 <a href="https://twitter.com/intent/follow?screen_name=0xelsherif"><img alt="Follow @0xelsherif on Twitter" src="https://img.shields.io/twitter/follow/0xelsherif"></a>
-[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/Linkedin--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
+[![Connect with @0xelsherif on LinkedIn](https://img.shields.io/badge/LinkedIn--blue?style=social&logo=linkedin)](https://www.linkedin.com/in/0xelsherif)
 [![Follow @0xelsherif on Medium](https://img.shields.io/badge/Medium--black?style=social&logo=medium)](https://medium.com/@0xelsherif)
 [![Follow @0xelsherif on Codepen](https://img.shields.io/badge/Codepen--black?style=social&logo=codepen)](https://codepen.io/0xelsherif)
 
